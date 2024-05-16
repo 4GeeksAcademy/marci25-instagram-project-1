@@ -1,0 +1,50 @@
+body{
+    background: #bdbdbd;
+}
+.profile-logo{
+    padding-right: 6px;
+    padding-left: 6px;
+    font-size: x-large;
+}
+.logo-container{
+    display: flex;
+    align-items: center;
+}
+.username h1{
+    font-size: small;
+    padding: 0;
+    margin: 0;
+}
+.menu{
+    display: flex;
+    justify-content: end;
+    padding: 15px;
+    font-size: large;
+}
+.username p{
+    font-size: smaller;
+    padding: 0;
+    margin: 0;
+}
+.post{
+    background: white;
+    width: 400px;
+    margin: auto;
+}
+.post-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 4px;
+}
+.post-body{
+    padding: 6px;
+}
+p{
+    padding: 0;
+}
